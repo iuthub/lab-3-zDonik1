@@ -1,5 +1,9 @@
 .content {
 	border: 5px green solid;
+	background-color: white;
+	background-image: url("http://www.cs.washington.edu/education/courses/190m/09sp/labs/2‐journal/images/background.gif");
+	align-self: center;
+	margin: 0% 10%;
 }
 
 .title {
@@ -12,6 +16,9 @@
 
 .article {
 	border: 5px blue solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
 }
 
 span.date {
