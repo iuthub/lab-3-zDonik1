@@ -1,0 +1,19 @@
+.content {
+	border: 5px green solid;
+}
+
+.title {
+	border: 5px red solid;
+}
+
+.subtitle {
+	border: 5px orange solid;
+}
+
+.article {
+	border: 5px blue solid;
+}
+
+span.date {
+	border: 5px purple solid;
+}
