@@ -23,9 +23,21 @@
 }
 
 span.date {
-	border-bottom: 2px blue dashed;
+	border-bottom: 2px #009097 dashed;
 }
 
 .article img {
 	float: right;
+}
+
+.sidepanel {
+	border: 5px #009097 solid;
+	background: #C2E9E9;
+	float: left;
+	margin: 10px;
+	margin-left: 0px;
+}
+
+.articles {
+	overflow: hidden;
 }
