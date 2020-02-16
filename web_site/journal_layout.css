@@ -1,21 +1,21 @@
 .content {
-	border: 5px green solid;
+	border: 10px white solid;
 	background-color: white;
 	background-image: url("http://www.cs.washington.edu/education/courses/190m/09sp/labs/2‐journal/images/background.gif");
 	margin: 0% 10%;
 }
 
 .title {
-	border: 5px red solid;
 	text-align: right;
+	background: #A8F0F0;
 }
 
 .subtitle {
-	border: 5px orange solid;
+	font-size: 14pt;
 }
 
 .article {
-	border: 5px blue solid;
+	border: 4px #C2E9E9 solid;
 	background-color: #E8FBFB;
 	padding: 5px;
 	margin-top: 10px;
@@ -23,7 +23,7 @@
 }
 
 span.date {
-	border: 5px purple solid;
+	border-bottom: 2px blue dashed;
 }
 
 .article img {
